@@ -1,8 +1,8 @@
 *{
-    background: lightsalmon;
+    background: rgb(241, 14, 2);
 }
 
 h1{
-    color: darkblue;
-    background-color: blueviolet;
+    color: rgb(41, 41, 231);
+    background-color: rgb(203, 184, 220);
 }
